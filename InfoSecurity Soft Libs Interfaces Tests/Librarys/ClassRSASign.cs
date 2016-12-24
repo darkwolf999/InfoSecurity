@@ -53,7 +53,7 @@ namespace InfoSecurity
 
             }
             else
-                throw new Exception("p или q - не простые числа!");
+                throw new Exception("numbers is not simple");
 
         }
 

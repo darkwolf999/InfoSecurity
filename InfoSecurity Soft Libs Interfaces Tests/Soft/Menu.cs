@@ -215,11 +215,11 @@ namespace InfoSecuritySoft
 
             if (valid)
             {
-                MessageBox.Show("TRUSTED", "RESULT OF CHECKING");
+                MessageBox.Show("TRUSTED", "RESULT");
             }
             else
             {
-                MessageBox.Show("NOT TRUSTED", "RESULT OF CHECKING");
+                MessageBox.Show("NOT TRUSTED", "RESULT");
             }
 
             textBox_text_sign.Text = "Sample text";
