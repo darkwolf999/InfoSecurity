@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="da9dc6a4-a5ea-4010-86e6-506c9dedc7a4" name="Darkwolf@MSI 2016-12-24 03:00:44" runUser="MSI\Darkwolf" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="4e7fb0d3-d890-4f62-a2ce-a051b82b97d3">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Darkwolf_MSI 2016-12-24 03_00_44">
+      <DeploymentItem filename="C:\Users\Darkwolf\YandexDisk\Учеба\4 Курс\МиСЗКИ\Лабы\InfoSecurity\InfoSecurity\bin\Debug\InfoSecurity.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2016-12-24T03:00:44.2706753+03:00" queuing="2016-12-24T03:00:44.3475146+03:00" start="2016-12-24T03:00:44.3585220+03:00" finish="2016-12-24T03:00:44.5536605+03:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestRSASign" storage="c:\users\darkwolf\yandexdisk\учеба\4 курс\мисзки\лабы\infosecurity\test\bin\debug\test.dll" id="64be44a0-2aab-e1cf-4f9a-4ec06ad4c14e">
+      <Execution id="12e0b339-e4c9-43d3-9fe3-277d68dd5099" />
+      <TestMethod codeBase="C:/Users/Darkwolf/YandexDisk/Учеба/4 Курс/МиСЗКИ/Лабы/InfoSecurity/Test/bin/Debug/Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Test.RSASignTest, Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestRSASign" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="64be44a0-2aab-e1cf-4f9a-4ec06ad4c14e" executionId="12e0b339-e4c9-43d3-9fe3-277d68dd5099" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="12e0b339-e4c9-43d3-9fe3-277d68dd5099" testId="64be44a0-2aab-e1cf-4f9a-4ec06ad4c14e" testName="TestRSASign" computerName="MSI" duration="00:00:00.0214258" startTime="2016-12-24T03:00:44.3595227+03:00" endTime="2016-12-24T03:00:44.5416523+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="12e0b339-e4c9-43d3-9fe3-277d68dd5099">
+    </UnitTestResult>
+  </Results>
+</TestRun>

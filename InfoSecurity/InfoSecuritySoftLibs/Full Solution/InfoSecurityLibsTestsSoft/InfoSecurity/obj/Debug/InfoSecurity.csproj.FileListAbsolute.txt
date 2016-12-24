@@ -1,0 +1,10 @@
+C:\Users\Darkwolf\Desktop\InfoSecurity\InfoSecurity\bin\Debug\InfoSecurity.dll
+C:\Users\Darkwolf\Desktop\InfoSecurity\InfoSecurity\bin\Debug\InfoSecurity.pdb
+C:\Users\Darkwolf\Desktop\InfoSecurity\InfoSecurity\obj\Debug\InfoSecurity.dll
+C:\Users\Darkwolf\Desktop\InfoSecurity\InfoSecurity\obj\Debug\InfoSecurity.pdb
+C:\Users\Darkwolf\Desktop\InfoSecurity\InfoSecurity\obj\Debug\InfoSecurity.csprojResolveAssemblyReference.cache
+C:\Users\Darkwolf\YandexDisk\Учеба\4 Курс\МиСЗКИ\Лабы\InfoSecurity\InfoSecurity\bin\Debug\InfoSecurity.dll
+C:\Users\Darkwolf\YandexDisk\Учеба\4 Курс\МиСЗКИ\Лабы\InfoSecurity\InfoSecurity\bin\Debug\InfoSecurity.pdb
+C:\Users\Darkwolf\YandexDisk\Учеба\4 Курс\МиСЗКИ\Лабы\InfoSecurity\InfoSecurity\obj\Debug\InfoSecurity.csprojResolveAssemblyReference.cache
+C:\Users\Darkwolf\YandexDisk\Учеба\4 Курс\МиСЗКИ\Лабы\InfoSecurity\InfoSecurity\obj\Debug\InfoSecurity.dll
+C:\Users\Darkwolf\YandexDisk\Учеба\4 Курс\МиСЗКИ\Лабы\InfoSecurity\InfoSecurity\obj\Debug\InfoSecurity.pdb

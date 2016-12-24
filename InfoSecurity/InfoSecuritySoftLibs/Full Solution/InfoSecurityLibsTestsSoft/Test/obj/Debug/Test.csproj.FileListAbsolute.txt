@@ -1,0 +1,18 @@
+C:\Users\Darkwolf\Desktop\InfoSecurity\Test\bin\Debug\Test.dll
+C:\Users\Darkwolf\Desktop\InfoSecurity\Test\bin\Debug\Test.pdb
+C:\Users\Darkwolf\Desktop\InfoSecurity\Test\bin\Debug\InfoSecurity.dll
+C:\Users\Darkwolf\Desktop\InfoSecurity\Test\bin\Debug\InfoSecurity.pdb
+C:\Users\Darkwolf\Desktop\InfoSecurity\Test\bin\Debug\InfoSecurity_Accessor.dll
+C:\Users\Darkwolf\Desktop\InfoSecurity\Test\bin\Debug\InfoSecurity_Accessor.pdb
+C:\Users\Darkwolf\Desktop\InfoSecurity\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Darkwolf\Desktop\InfoSecurity\Test\obj\Debug\Test.dll
+C:\Users\Darkwolf\Desktop\InfoSecurity\Test\obj\Debug\Test.pdb
+C:\Users\Darkwolf\YandexDisk\Учеба\4 Курс\МиСЗКИ\Лабы\InfoSecurity\Test\bin\Debug\Test.dll
+C:\Users\Darkwolf\YandexDisk\Учеба\4 Курс\МиСЗКИ\Лабы\InfoSecurity\Test\bin\Debug\Test.pdb
+C:\Users\Darkwolf\YandexDisk\Учеба\4 Курс\МиСЗКИ\Лабы\InfoSecurity\Test\bin\Debug\InfoSecurity.dll
+C:\Users\Darkwolf\YandexDisk\Учеба\4 Курс\МиСЗКИ\Лабы\InfoSecurity\Test\bin\Debug\InfoSecurity.pdb
+C:\Users\Darkwolf\YandexDisk\Учеба\4 Курс\МиСЗКИ\Лабы\InfoSecurity\Test\bin\Debug\InfoSecurity_Accessor.dll
+C:\Users\Darkwolf\YandexDisk\Учеба\4 Курс\МиСЗКИ\Лабы\InfoSecurity\Test\bin\Debug\InfoSecurity_Accessor.pdb
+C:\Users\Darkwolf\YandexDisk\Учеба\4 Курс\МиСЗКИ\Лабы\InfoSecurity\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Darkwolf\YandexDisk\Учеба\4 Курс\МиСЗКИ\Лабы\InfoSecurity\Test\obj\Debug\Test.dll
+C:\Users\Darkwolf\YandexDisk\Учеба\4 Курс\МиСЗКИ\Лабы\InfoSecurity\Test\obj\Debug\Test.pdb

@@ -1,0 +1,10 @@
+C:\Users\Darkwolf\YandexDisk\Учеба\4 Курс\МиСЗКИ\Лабы\InfoSecurity\InfoSecuritySoft\bin\Debug\InfoSecuritySoft.exe
+C:\Users\Darkwolf\YandexDisk\Учеба\4 Курс\МиСЗКИ\Лабы\InfoSecurity\InfoSecuritySoft\bin\Debug\InfoSecuritySoft.pdb
+C:\Users\Darkwolf\YandexDisk\Учеба\4 Курс\МиСЗКИ\Лабы\InfoSecurity\InfoSecuritySoft\obj\x86\Debug\InfoSecuritySoft.Main.resources
+C:\Users\Darkwolf\YandexDisk\Учеба\4 Курс\МиСЗКИ\Лабы\InfoSecurity\InfoSecuritySoft\obj\x86\Debug\InfoSecuritySoft.Properties.Resources.resources
+C:\Users\Darkwolf\YandexDisk\Учеба\4 Курс\МиСЗКИ\Лабы\InfoSecurity\InfoSecuritySoft\obj\x86\Debug\InfoSecuritySoft.csproj.GenerateResource.Cache
+C:\Users\Darkwolf\YandexDisk\Учеба\4 Курс\МиСЗКИ\Лабы\InfoSecurity\InfoSecuritySoft\obj\x86\Debug\InfoSecuritySoft.exe
+C:\Users\Darkwolf\YandexDisk\Учеба\4 Курс\МиСЗКИ\Лабы\InfoSecurity\InfoSecuritySoft\obj\x86\Debug\InfoSecuritySoft.pdb
+C:\Users\Darkwolf\YandexDisk\Учеба\4 Курс\МиСЗКИ\Лабы\InfoSecurity\InfoSecuritySoft\obj\x86\Debug\InfoSecuritySoft.csprojResolveAssemblyReference.cache
+C:\Users\Darkwolf\YandexDisk\Учеба\4 Курс\МиСЗКИ\Лабы\InfoSecurity\InfoSecuritySoft\bin\Debug\InfoSecurity.dll
+C:\Users\Darkwolf\YandexDisk\Учеба\4 Курс\МиСЗКИ\Лабы\InfoSecurity\InfoSecuritySoft\bin\Debug\InfoSecurity.pdb

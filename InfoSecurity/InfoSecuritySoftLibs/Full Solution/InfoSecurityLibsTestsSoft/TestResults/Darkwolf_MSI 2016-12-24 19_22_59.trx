@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="c6cf71ed-4446-4b1b-bdd5-c60f2e07d714" name="Darkwolf@MSI 2016-12-24 19:22:59" runUser="MSI\Darkwolf" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="4e7fb0d3-d890-4f62-a2ce-a051b82b97d3">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Darkwolf_MSI 2016-12-24 19_22_59">
+      <DeploymentItem filename="C:\Users\Darkwolf\YandexDisk\Учеба\4 Курс\МиСЗКИ\Лабы\InfoSecurity\InfoSecurity\bin\Debug\InfoSecurity.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2016-12-24T19:22:59.7430242+03:00" queuing="2016-12-24T19:22:59.8889218+03:00" start="2016-12-24T19:22:59.9039328+03:00" finish="2016-12-24T19:23:00.2311648+03:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="5" executed="5" passed="5" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestEncodeBlock" storage="c:\users\darkwolf\yandexdisk\учеба\4 курс\мисзки\лабы\infosecurity\test\bin\debug\test.dll" id="5c6fe925-60d7-a6c4-2c88-d33468196b50">
+      <Execution id="03c7eca9-8850-4690-b6e5-661dbf6ba3a7" />
+      <TestMethod codeBase="C:/Users/Darkwolf/YandexDisk/Учеба/4 Курс/МиСЗКИ/Лабы/InfoSecurity/Test/bin/Debug/Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Test.TestAES, Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestEncodeBlock" />
+    </UnitTest>
+    <UnitTest name="HashTest" storage="c:\users\darkwolf\yandexdisk\учеба\4 курс\мисзки\лабы\infosecurity\test\bin\debug\test.dll" id="091fc49d-703b-efa4-7d2a-a1ff1954ca62">
+      <Execution id="644fd3fe-cf8c-4561-b8a3-d035b7f868c6" />
+      <TestMethod codeBase="C:/Users/Darkwolf/YandexDisk/Учеба/4 Курс/МиСЗКИ/Лабы/InfoSecurity/Test/bin/Debug/Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Test.TestMD5, Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="HashTest" />
+    </UnitTest>
+    <UnitTest name="TestDecodeBlock" storage="c:\users\darkwolf\yandexdisk\учеба\4 курс\мисзки\лабы\infosecurity\test\bin\debug\test.dll" id="d1b2d47d-423d-ce4b-8c80-52e1a4ba45a4">
+      <Execution id="430555d4-7d99-4cdd-ad4b-7f61199d9936" />
+      <TestMethod codeBase="C:/Users/Darkwolf/YandexDisk/Учеба/4 Курс/МиСЗКИ/Лабы/InfoSecurity/Test/bin/Debug/Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Test.TestAES, Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestDecodeBlock" />
+    </UnitTest>
+    <UnitTest name="TestRSA" storage="c:\users\darkwolf\yandexdisk\учеба\4 курс\мисзки\лабы\infosecurity\test\bin\debug\test.dll" id="23378396-9795-578a-4f90-5b401474a761">
+      <Execution id="fc0dc4ef-bde4-4276-b7a5-8a761ed146e9" />
+      <TestMethod codeBase="C:/Users/Darkwolf/YandexDisk/Учеба/4 Курс/МиСЗКИ/Лабы/InfoSecurity/Test/bin/Debug/Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Test.RSATest, Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestRSA" />
+    </UnitTest>
+    <UnitTest name="TestRSASign" storage="c:\users\darkwolf\yandexdisk\учеба\4 курс\мисзки\лабы\infosecurity\test\bin\debug\test.dll" id="64be44a0-2aab-e1cf-4f9a-4ec06ad4c14e">
+      <Execution id="dbfdfd93-27bb-4e1f-98f2-8b77010f71dd" />
+      <TestMethod codeBase="C:/Users/Darkwolf/YandexDisk/Учеба/4 Курс/МиСЗКИ/Лабы/InfoSecurity/Test/bin/Debug/Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Test.RSASignTest, Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestRSASign" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="091fc49d-703b-efa4-7d2a-a1ff1954ca62" executionId="644fd3fe-cf8c-4561-b8a3-d035b7f868c6" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="23378396-9795-578a-4f90-5b401474a761" executionId="fc0dc4ef-bde4-4276-b7a5-8a761ed146e9" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="5c6fe925-60d7-a6c4-2c88-d33468196b50" executionId="03c7eca9-8850-4690-b6e5-661dbf6ba3a7" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="64be44a0-2aab-e1cf-4f9a-4ec06ad4c14e" executionId="dbfdfd93-27bb-4e1f-98f2-8b77010f71dd" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d1b2d47d-423d-ce4b-8c80-52e1a4ba45a4" executionId="430555d4-7d99-4cdd-ad4b-7f61199d9936" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="644fd3fe-cf8c-4561-b8a3-d035b7f868c6" testId="091fc49d-703b-efa4-7d2a-a1ff1954ca62" testName="HashTest" computerName="MSI" duration="00:00:00.0124077" startTime="2016-12-24T19:22:59.9089367+03:00" endTime="2016-12-24T19:23:00.1701214+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="644fd3fe-cf8c-4561-b8a3-d035b7f868c6">
+    </UnitTestResult>
+    <UnitTestResult executionId="fc0dc4ef-bde4-4276-b7a5-8a761ed146e9" testId="23378396-9795-578a-4f90-5b401474a761" testName="TestRSA" computerName="MSI" duration="00:00:00.0056347" startTime="2016-12-24T19:23:00.1711221+03:00" endTime="2016-12-24T19:23:00.1811292+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="fc0dc4ef-bde4-4276-b7a5-8a761ed146e9">
+    </UnitTestResult>
+    <UnitTestResult executionId="03c7eca9-8850-4690-b6e5-661dbf6ba3a7" testId="5c6fe925-60d7-a6c4-2c88-d33468196b50" testName="TestEncodeBlock" computerName="MSI" duration="00:00:00.0040505" startTime="2016-12-24T19:23:00.1861324+03:00" endTime="2016-12-24T19:23:00.1931389+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="03c7eca9-8850-4690-b6e5-661dbf6ba3a7">
+    </UnitTestResult>
+    <UnitTestResult executionId="dbfdfd93-27bb-4e1f-98f2-8b77010f71dd" testId="64be44a0-2aab-e1cf-4f9a-4ec06ad4c14e" testName="TestRSASign" computerName="MSI" duration="00:00:00.0048019" startTime="2016-12-24T19:23:00.1951399+03:00" endTime="2016-12-24T19:23:00.2021449+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="dbfdfd93-27bb-4e1f-98f2-8b77010f71dd">
+    </UnitTestResult>
+    <UnitTestResult executionId="430555d4-7d99-4cdd-ad4b-7f61199d9936" testId="d1b2d47d-423d-ce4b-8c80-52e1a4ba45a4" testName="TestDecodeBlock" computerName="MSI" duration="00:00:00.0012536" startTime="2016-12-24T19:23:00.2051471+03:00" endTime="2016-12-24T19:23:00.2081488+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="430555d4-7d99-4cdd-ad4b-7f61199d9936">
+    </UnitTestResult>
+  </Results>
+</TestRun>
